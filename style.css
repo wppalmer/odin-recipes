@@ -9,3 +9,18 @@ body {
     font-family: 'Roboto', sans-serif;
     
 }
+.recipes {
+    display: flex;
+    flex-direction: row;
+}
+/* Added for flexbox */
+#quesadilla {
+    background-color: rgba(128, 128, 128, 0.274);
+}
+#turk-burg {
+    background-color: rgba(0, 0, 255, 0.24);
+}
+#mug-cake {
+    background-color: rgba(0, 128, 0, 0.247);
+}
+/* End of flexbox help */
