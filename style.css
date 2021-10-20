@@ -11,9 +11,13 @@ body {
     margin: 0;
     padding: 0;
 }
+.sub-head{
+    text-align: center;
+}
 .recipes {
     display: flex;
     flex-direction: row;
+    background-color: rgba(247, 247, 247, 0.521);
 }
 h1 {
     text-align: center;
@@ -24,14 +28,17 @@ h1 {
     margin-right: auto;
     width: 50%;
 }
-/* Added for flexbox */
+.mini-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 #quesadilla {
-    background-color: rgba(128, 128, 128, 0.274);
+    text-align: center;
 }
 #turk-burg {
-    background-color: rgba(0, 0, 255, 0.24);
+    text-align: center;
 }
 #mug-cake {
-    background-color: rgba(0, 128, 0, 0.247);
+    text-align: center;
 }
-/* End of flexbox help */
