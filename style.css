@@ -17,6 +17,9 @@ body {
     margin: 0;
     padding: 0;
 }
+h1 {
+    text-align: center;
+}
 a {
     text-decoration: none;
     color: black;
@@ -28,9 +31,6 @@ a {
     display: flex;
     flex-direction: row;
     background-color: rgba(247, 247, 247, 0.521);
-    text-align: center;
-}
-h1 {
     text-align: center;
 }
 .main-img {
