@@ -23,6 +23,7 @@ body {
     display: flex;
     flex-direction: row;
     background-color: rgba(247, 247, 247, 0.521);
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -39,6 +40,4 @@ h1 {
     margin-right: auto;
     padding: 10px;
 }
-.recipes {
-    text-align: center;
-}
+
