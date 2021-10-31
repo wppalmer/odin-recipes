@@ -17,6 +17,10 @@ body {
     margin: 0;
     padding: 0;
 }
+a {
+    text-decoration: none;
+    color: black;
+}
 .sub-head{
     text-align: center;
 }
