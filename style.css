@@ -40,6 +40,8 @@ a {
     border: black;
     border-radius: 5%;
     padding: 10px;
+    opacity: 0.6;
+    transition: 0.3s;
 }
 .main-img {
     display: block;
@@ -56,4 +58,6 @@ a {
     height: auto;
     max-width: 80%;
 }
-
+.recipes-sub:hover {
+    opacity: 1;
+}
