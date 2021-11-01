@@ -24,6 +24,12 @@ a {
     text-decoration: none;
     color: black;
 }
+ol {
+    padding-left: 20px;
+}
+ul {
+    padding-left: 20px;
+}
 .sub-head{
     text-align: center;
 }
