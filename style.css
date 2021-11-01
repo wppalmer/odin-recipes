@@ -51,6 +51,7 @@ ul {
 }
 .recipes-sub:hover {
     opacity: 1;
+    transform: scale(1.05);
 }
 
 .main-img {
