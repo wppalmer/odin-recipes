@@ -10,7 +10,18 @@ html {
   background-color: rgba(121, 121, 121, 0.288);
 }
 header {
-  background-color: rgba(105, 105, 105, 0.288);
+  background-color: black;
+  color: white;
+  height: 25px;
+  padding: 5px 10px;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-top: 20px;
+    padding-top: 10px;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -22,7 +33,7 @@ h1 {
 }
 a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 ol {
   padding-left: 20px;
@@ -80,6 +91,7 @@ ul {
     justify-content: center;
     margin-left: 15%;
     margin-right: 15%;
+    padding: 1.2%;
     background-color: white;
 }
 .ingredients {
@@ -88,7 +100,8 @@ ul {
     justify-content: center;
     margin-top: 1.25%;
     margin-left: 15%;
-    margin-right: 15%;
+    margin-right: 40%;
+    padding: 1.2%;
     background-color: white;
 }
 .directions{
@@ -98,5 +111,6 @@ ul {
     margin-top: 1.25%;
     margin-left: 15%;
     margin-right: 15%;
+    padding: 1.2%;
     background-color: white;
 }
